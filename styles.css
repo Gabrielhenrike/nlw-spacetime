@@ -98,6 +98,24 @@ nav {
   line-height: 28px;
 }
 
+
+
+.ag {
+  font-size: 1.2rem;
+  color: #bebebf;
+  line-height: 28px;
+  margin-top: -50px;
+}
+
+.ag a {
+  text-decoration: none;
+  color: rgb(111, 111, 192);
+}
+
+.ag a:hover {
+  color: rgb(129, 62, 62);
+}
+
 aside {
   grid-area: profile;
   display: flex;
